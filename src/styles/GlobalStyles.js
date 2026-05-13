@@ -39,13 +39,9 @@ export const GlobalStyles = createGlobalStyle`
     background: var(--black);
     color: var(--white);
     overflow-x: hidden;
-    cursor: none;
   }
 
   /* Custom cursor */
-  body * {
-    cursor: none !important;
-  }
 
   a {
     text-decoration: none;

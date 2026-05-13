@@ -22,6 +22,7 @@ const HeroSection = styled.section`
   align-items: center;
   overflow: hidden;
   background: var(--black);
+  margin-top: 90px;
 `;
 
 const ParallaxBg = styled.div`

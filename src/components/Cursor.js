@@ -82,8 +82,7 @@ export default function CustomCursor() {
 
   return (
     <>
-      <CursorOuter ref={outerRef} />
-      <CursorInner ref={innerRef} />
+      
     </>
   );
 }
